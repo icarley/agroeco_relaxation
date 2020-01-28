@@ -4,6 +4,11 @@ Data to accompany:
 Lauren N Carley and Susan G Letcher
 #############
 
+correspondence:
+lauren.n.carley@gmail.com
+
+#############
+
 “2011-Bioassays.csv” 
 
 Contains data on palatability bioassays for leaf extracts from three species collected upstream and downstream of rice growing at one site (BAG) in 2011. 
