@@ -68,4 +68,18 @@ Total_Undamaged_Leaflets: Total number of intact leaflets in the focal area
 Proportion_Damaged_Leaflets: Total_Dam_Leaflets/Num_Leaflets
 
 #############
+
+"2013-AcephateExposure.csv"
+
+Contains data collected from water samples assayed for acetylcoholinesterase-inhibiting insecticides using the Abraxis OP/C test kit in 2013.
+Columns include:
+
+Sample No.: Sample number
+Sample Location: Study site location (BAG or FAL), or control type 
+Position: Upstream or downstream relative to agriculture for field samples; "n/a" for controls
+A405 (Sample): Spectropotometric absorbance at 405 nm following incubation period, according to manufacturer's protocols
+A405 (Negative Control): The average spectrophotometric absorbance at 405 nm of two negative controls following incubation, according to manufacturer's protocols
+% Inhibition of Color: (1-(A405 (Sample)/A405 (Negative Control)))*100
+
+#############
  
